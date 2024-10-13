@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    background-color: inherit;
+    box-sizing: border-box;
+    border: 1px solid magenta;
+}
+
+
+:root {
+    background-color: rgb(55, 46, 113);
+}
